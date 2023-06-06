@@ -33,19 +33,19 @@ export class Aufgabe3Component implements OnInit {
     const number = Number(this.value);
   }
   /*  
-  Soll die vorherige Zahl Zurückliefern (retun result)
+  Soll die vorherige Zahl Zurückliefern (return result)
   */
   prev() {
     const number = Number(this.value);
   }
   /*  
-  Soll die nachfolgende Zahl Zurückliefern (retun result)
+  Soll die nachfolgende Zahl Zurückliefern (return result)
   */
   after() {
     const number = Number(this.value);
   }
   /*  
-  Soll die nachfolgende gerade Zahl Zurückliefern (retun result)
+  Soll die nachfolgende gerade Zahl Zurückliefern (return result)
   */
   nextEven() {
     const number = Number(this.value);
